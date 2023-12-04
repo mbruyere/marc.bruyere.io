@@ -113,12 +113,12 @@ sections:
   #     # Choose a layout view
   #     view: compact
   #     columns: '2'
-  # - block: portfolio
-  #   id: projects
-  #   content:
-  #     title: Projects
-  #     filters:
-  #       folders:
+  - block: portfolio
+    id: projects
+    content:
+      title: Projects
+      filters:
+        folders:
           - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
