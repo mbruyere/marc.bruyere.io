@@ -77,7 +77,7 @@ highlight_name: true
 
 I began my career back in 1996 with my first job at Club-Internet.fr and I am still evolving.
 
-Over the years, I had the privilege of working with some exceptional organizations, including Cisco, Vivendi Universal, Credit Suisse First Boston, Airbus/Dimension Data, Force10 Networks, Del, and now IIJ.  
+Over the years, I had the privilege of working with some exceptional organizations, including Cisco, Vivendi Universal, Credit Suisse First Boston, Airbus/Dimension Data, Force10 Networks, Dell - Force10, CNRS  and now Internet Initiative Japan.
 
 One of my notable achievements is earning the title of **CCIE Emeritus #16656** and  I pursued later with a  **Ph.D. degree** at the LAAS CNRS, followed by a two-year PostDoc at the University of Tokyo on operational research topics. 
 
