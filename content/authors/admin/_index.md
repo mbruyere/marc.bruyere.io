@@ -75,7 +75,13 @@ email: ''
 highlight_name: true
 ---
 
-Bringing over two decades of experience in advanced networking, I've contributed to industry giants like Cisco, Vivendi Universal, and Internet Initiative Japan Lab. A CCIE Emeritus and Ph.D. holder, my expertise spans innovative SDN solutions and impactful operational research. My work integrates academic rigor with real-world applicability, focusing on network architecture design for large-scale environments. I'm open to opportunities to apply my unique skill set in operational research, driving technological advancements and practical solutions.
+Bringing over two decades of experience in advanced networking, I've contributed to industry giants like Cisco, Vivendi Universal, and Internet Initiative Japan Lab. 
+
+A CCIE Emeritus and Ph.D. holder, my expertise spans innovative SDN solutions and impactful operational research. 
+
+My work integrates academic rigor with real-world applicability, focusing on network architecture design for large-scale environments.
+
+ I'm open to opportunities to apply my unique skill set in operational research, driving technological advancements and practical solutions.
 
 <!-- My recent Ph.D. work in advanced networking technologies has strengthened my expertise, particularly in designing and implementing full-stack network architectures for large-scale environments involving complex trade-offs.
 
