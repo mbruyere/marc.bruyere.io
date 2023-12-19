@@ -75,15 +75,11 @@ email: ''
 highlight_name: true
 ---
 
-I began my career back in 1996 with my first job at Club-Internet.fr and I am still evolving.
+Bringing over two decades of experience in advanced networking, I've contributed to industry giants like Cisco, Vivendi Universal, and Internet Initiative Japan Lab. A CCIE Emeritus and Ph.D. holder, my expertise spans innovative SDN solutions and impactful operational research. My work integrates academic rigor with real-world applicability, focusing on network architecture design for large-scale environments. I'm open to opportunities to apply my unique skill set in operational research, driving technological advancements and practical solutions.
 
-Over the years, I had the privilege of working with some exceptional organizations, including Cisco, Vivendi Universal, Credit Suisse First Boston, Airbus/Dimension Data, Force10 Networks, Dell - Force10, CNRS  and now Internet Initiative Japan.
+<!-- My recent Ph.D. work in advanced networking technologies has strengthened my expertise, particularly in designing and implementing full-stack network architectures for large-scale environments involving complex trade-offs.
 
-One of my notable achievements is earning the title of **CCIE Emeritus #16656** and  I pursued later with a  **Ph.D. degree** at the LAAS CNRS, followed by a two-year PostDoc at the University of Tokyo on operational research topics. 
-
-My doctoral thesis revolved around open-source OpenFlow and who ended with an  P4 SDN solutions for Internet Exchange Points (IXPs).
-
-My recent Ph.D. work in advanced networking technologies has strengthened my expertise, particularly in designing and implementing full-stack network architectures for large-scale environments involving complex trade-offs.
+My recent Ph.D. work in advanced networking technologies has strengthened my expertise, particularly in designing and implementing full-stack network architectures for large-scale environments involving complex trade-offs. -->
 
 You can explore my [papers and publications ](#section-collection) or [actual projects](#projects)
 
