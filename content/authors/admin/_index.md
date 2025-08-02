@@ -75,7 +75,7 @@ email: ''
 highlight_name: true
 ---
 
-Bringing over two decades of experience in advanced networking, I've contributed to industry giants like Cisco, Vivendi Universal, and Internet Initiative Japan Lab. 
+Bringing over than two  decades of experience in advanced networking, I've contributed to industry giants like Cisco, Vivendi Universal, and Internet Initiative Japan Lab. 
 
 A CCIE Emeritus and Ph.D. holder, my expertise spans innovative SDN solutions and impactful operational research. 
 
