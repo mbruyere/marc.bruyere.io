@@ -14,12 +14,10 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior Researcher 
+role: Senior Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Internet Initiative Japan Lab
-    url: "https://www.iijlab.net/en/about/index.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include how to make computer talking together for human.
