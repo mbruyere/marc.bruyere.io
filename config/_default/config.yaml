@@ -24,6 +24,9 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+  mounts:
+    - source: layouts
+      target: layouts
 
 ############################
 ## ADVANCED
@@ -31,7 +34,8 @@ module:
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -72,3 +76,6 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+services:
+  googleAnalytics:
+    ID: ''
